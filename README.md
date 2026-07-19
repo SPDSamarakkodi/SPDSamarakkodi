@@ -63,7 +63,7 @@
 </p>
 
 ---
-
+<!--
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -73,7 +73,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPDSamarakkodi&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
+-->
 ---
 
 # 🔥 GitHub Streak
@@ -85,7 +85,7 @@
 </p>
 
 ---
-
+<!--
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -93,7 +93,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=SPDSamarakkodi&theme=algolia&margin-w=10&margin-h=10&no-frame=true&row=2&column=4"/>
 
 </p>
-
+-->
 ---
 
 # 📈 Contribution Graph
@@ -169,10 +169,8 @@ https://linkedin.com/in/pavan-samarakkodi
 
 ---
 
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
+
 <p align="center">
-
-### Thanks for visiting my profile ❤️
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 </p>
